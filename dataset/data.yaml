@@ -1,0 +1,7 @@
+path: "C:/User/prashant.solanki/Desktop/Personal Projects/hair_detection/Beard-Hair-Image-Segmentation/dataset/"
+train: "train/"
+val: "valid/"
+
+
+nc: 2
+names: ['beard', 'hair']
